@@ -1,6 +1,6 @@
 # Business Leads Scraper
 
-Python script to extract emails from websites.
+Simple tool to collect business leads (emails) from websites.
 
 ## Features
 - Finds emails on main page
