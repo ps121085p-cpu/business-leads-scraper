@@ -22,3 +22,8 @@ Python tool for extracting business contact information from websites.
 
 ```bash
 python main.py
+```
+
+## Screenshot
+
+![Project Screenshot](screenshot.png)
