@@ -1,14 +1,24 @@
 # Business Leads Scraper
 
-Simple tool to collect business leads (emails) from websites.
+Python tool for extracting business contact information from websites.
 
 ## Features
-- Finds emails on main page
+
+- Finds emails
+- Finds phone numbers
 - Checks contact/about pages
-- Saves to CSV
+- Removes duplicate contacts
+- Saves results to CSV
+
+## Technologies
+
+- Python
+- requests
+- BeautifulSoup
+- CSV
+- Regular Expressions (regex)
 
 ## Run
-python main.py
 
-## Output
-leads.csv with emails
+```bash
+python main.py
