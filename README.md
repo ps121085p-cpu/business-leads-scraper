@@ -26,4 +26,4 @@ python main.py
 
 ## Screenshot
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](project.png)
